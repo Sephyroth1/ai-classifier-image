@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+danal/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts (keep only the final one if you want)
+*.h5
+
+# Logs
+logs/
+*.log
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+
+# Dataset / temporary data
+data/
+datasets/
